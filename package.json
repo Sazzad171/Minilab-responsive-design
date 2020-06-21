@@ -1,0 +1,21 @@
+{
+  "name": "theme-fisher-project",
+  "version": "1.0.0",
+  "description": "theme-fisher-live-project",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "sazzadd",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "bootstrap-scss": "^4.3.1"
+  }
+}
